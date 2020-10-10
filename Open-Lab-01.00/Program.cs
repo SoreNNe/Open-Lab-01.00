@@ -9,4 +9,4 @@ namespace Open_Lab_01._00
             Console.WriteLine("Hello Apps Lab!");
         }
     }
-}
+} 
